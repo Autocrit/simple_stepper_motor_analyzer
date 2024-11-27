@@ -10,5 +10,10 @@ Heat threaded inserts: M2.5, 3.5mm OD, 3mm length.  https://www.aliexpress.com/i
 Screws: Hex socket head cap, M2.5 x 10mm.  https://www.aliexpress.com/item/10000139502321.html
 https://cad.onshape.com/documents/58d3fc7e6c256c4f6a684caf/v/9748de4b75ec777ad8fbd9ed/e/96371cb25b019416be0a198b
 
-
 Important: Clean the 3D print to have a clean and flat surface for the TFT front surface interface.
+
+enclosure_metal_insert_threads_modified_usb_cutout.stl has a larger cutout for micro USB cable
+(7 x 11mm instead of 5 x 10mm). Untested.
+
+![Original USB cuout!](./usb_before.png "Before")
+![Larger USB cuout!](./usb_after.png "Before")
