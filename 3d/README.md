@@ -12,7 +12,7 @@ https://cad.onshape.com/documents/58d3fc7e6c256c4f6a684caf/v/9748de4b75ec777ad8f
 
 Important: Clean the 3D print to have a clean and flat surface for the TFT front surface interface.
 
-enclosure_metal_insert_threads_modified_usb_cutout.stl has a larger cutout for micro USB cable
+enclosure_metal_insert_threads_modified_usb_cutout.stl has a larger cutout for the micro USB cable
 (7 x 11mm instead of 5 x 10mm). Untested.
 
 ![Original USB cuout!](./usb_before.png "Before")
